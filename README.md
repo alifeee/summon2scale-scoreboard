@@ -1,3 +1,5 @@
+> [!CAUTION]
+> MOVED! see <https://git.alifeee.net/summon2scale-scoreboard/about/>
 # A scoreboard server for Summon2Scale
 
 Using:
